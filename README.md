@@ -1,2 +1,2 @@
 # my-shared-library
-sharejenkins
+share libary for jenkins for docker-compose file
